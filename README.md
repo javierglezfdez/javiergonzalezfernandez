@@ -8,7 +8,6 @@ Portfolio Profesional Javier Glez
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-gonz%C3%A1lez-fern%C3%A1ndez/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javier.glez.fdez@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://github-espanol-1.preview.emergentagent.com)
 
 </div>
 
