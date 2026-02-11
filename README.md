@@ -109,18 +109,6 @@ Especialista en Ciberseguridad y Sistemas IT con **+25 años** de experiencia pr
 |:---:|:---:|:---:|:---:|
 | Nativo | C1 | Profesional | Básico |
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javiergonzalezfernandez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-</div>
-
 ---
 
 <div align="center">
