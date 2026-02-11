@@ -1,5 +1,5 @@
-# javiergonzalezfernandez
-Portfolio Profesional Javier Glez
+# javierglezfdez
+Portfolio Profesional Javier Glez.
 <div align="center">
 
 # Hola, soy Javier González Fernández 👋
