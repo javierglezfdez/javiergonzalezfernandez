@@ -132,7 +132,7 @@ Estoy abierto a nuevas oportunidades en **Ciberseguridad**, **Consultoría IT** 
 
 [![Email](https://img.shields.io/badge/javier.glez.fdez@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javier.glez.fdez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-gonz%C3%A1lez-fern%C3%A1ndez/)
-[![Phone](https://img.shields.io/badge/+34_611_816_026-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+34611816026)
+[![Phone](https://img.shields.io/badge/+34_611_816_026-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:Bajo Solicitud)
 
 ---
 
